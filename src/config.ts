@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Rojoniaina Rajoelisolo",
+  title: ".NET | Magento 2 Developer",
+  description: "Portfolio website of Rojoniaina Rajoelisolo",
   accentColor: "#1d4ed8",
   social: {
     email: "your-email@example.com",
